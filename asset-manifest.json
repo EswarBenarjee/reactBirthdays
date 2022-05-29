@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactBirthdays/static/css/main.71011560.css",
-    "main.js": "/reactBirthdays/static/js/main.0ff72e36.js",
+    "main.css": "/reactBirthdays/static/css/main.696c7fe7.css",
+    "main.js": "/reactBirthdays/static/js/main.c69d0ada.js",
     "index.html": "/reactBirthdays/index.html",
-    "main.71011560.css.map": "/reactBirthdays/static/css/main.71011560.css.map",
-    "main.0ff72e36.js.map": "/reactBirthdays/static/js/main.0ff72e36.js.map"
+    "main.696c7fe7.css.map": "/reactBirthdays/static/css/main.696c7fe7.css.map",
+    "main.c69d0ada.js.map": "/reactBirthdays/static/js/main.c69d0ada.js.map"
   },
   "entrypoints": [
-    "static/css/main.71011560.css",
-    "static/js/main.0ff72e36.js"
+    "static/css/main.696c7fe7.css",
+    "static/js/main.c69d0ada.js"
   ]
 }
