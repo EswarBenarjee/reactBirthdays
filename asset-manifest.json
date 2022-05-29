@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/EswarBenarjee/reactBirthdays/static/css/main.71011560.css",
-    "main.js": "/EswarBenarjee/reactBirthdays/static/js/main.0ff72e36.js",
-    "index.html": "/EswarBenarjee/reactBirthdays/index.html",
-    "main.71011560.css.map": "/EswarBenarjee/reactBirthdays/static/css/main.71011560.css.map",
-    "main.0ff72e36.js.map": "/EswarBenarjee/reactBirthdays/static/js/main.0ff72e36.js.map"
+    "main.css": "/reactBirthdays/static/css/main.71011560.css",
+    "main.js": "/reactBirthdays/static/js/main.0ff72e36.js",
+    "index.html": "/reactBirthdays/index.html",
+    "main.71011560.css.map": "/reactBirthdays/static/css/main.71011560.css.map",
+    "main.0ff72e36.js.map": "/reactBirthdays/static/js/main.0ff72e36.js.map"
   },
   "entrypoints": [
     "static/css/main.71011560.css",
