@@ -38,10 +38,10 @@ body {
 }
 
 /* Add Birthday */
-form {
+.add form {
     padding: 5vh 10vw;
 }
-input {
+.add input {
     background-color: inherit;
     border: 0;
     border-bottom: 1px solid black;
@@ -49,9 +49,10 @@ input {
     color: white;
     padding-left: 0;
 }
-input::placeholder {
+.add input::placeholder {
     color: white;
 }
-input:focus {
+.add input:focus {
     outline: none !important;
 }
+

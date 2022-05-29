@@ -24,7 +24,7 @@ function Add({onAdd, change}) {
         change();
     }
 
-    return <div>
+    return <div className='add'>
         <form onSubmit={handleSubmit}>
             <h2 className='text-center mb-5'>Add a New Birthday</h2>
             <input type="text" className='mb-5' placeholder="Enter your name" onChange={handleName}/> <br/>
