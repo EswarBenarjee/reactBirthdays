@@ -1,7 +1,7 @@
 {
   "name": "birthdays",
   "version": "0.1.0",
-  "homepage": "https://github.com/EswarBenarjee/reactBirthdays",
+  "homepage": "https://EswarBenarjee.github.io/reactBirthdays",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
